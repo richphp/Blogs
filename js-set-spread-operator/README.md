@@ -5,9 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="Use of JavaScript Set and spread operator">
-<style type="text/css">
-
-</style>
 </head>
 <body>
 
